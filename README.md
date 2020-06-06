@@ -1,6 +1,5 @@
 # Arkademy-DevOps
-Nama: Muhammad Rahmahalim
-Email: muhammad.rahmahalim@gmail.com
+Muhammad Rahmahalim - muhammad.rahmahalim@gmail.com
 
 ### 1) Screenshot 3.A - MySQL
 ![1](https://user-images.githubusercontent.com/58234878/83945386-83ba1e80-a834-11ea-97ca-312609c74994.png)

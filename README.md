@@ -1,4 +1,4 @@
-# Arkademy-DevOps
+<img src="./other/BG - Header.gif">
 Muhammad Rahmahalim - muhammad.rahmahalim@gmail.com
 
 ### 1) Screenshot 3.A - MySQL
